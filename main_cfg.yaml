@@ -1,0 +1,39 @@
+pic_dir_title: "全国计算机等级四级嵌入式考试章节"
+tpl:
+  - name : "操作系统" 
+    dir :
+      - name: "操作系统概论"
+        num: 54
+      - name: "操作系统运行机制"
+        num: 35
+      - name: "进程线程模型"
+        num: 106
+      - name: "并发与同步"
+        num: 65
+      - name: "内存管理"
+        num: 118
+      - name: "文件管理"
+        num: 119
+      - name: "I/O设备管理"
+        num: 51
+      - name: "死锁"
+        num: 52
+  - name : "计算机组成与接口" 
+    dir :
+      - name: "操作系统概论"
+        num: 153
+      - name: "存储器"
+        num: 66
+      - name: "汇编语言程序设计"
+        num: 97
+      - name: "计算机中断技术"
+        num: 79
+      - name: "计算机和外设的数据交换技术"
+        num: 157
+      - name: "D/A和A/D转换"
+        num: 13
+      - name: "人机接口"
+        num: 12
+      - name: "总线"
+        num: 23
+
