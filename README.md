@@ -50,7 +50,7 @@ pipreqs ./
 pipreqs --force ./
 ```
 
-- 2.一键安装所需**第三方库**
+- 3.一键安装所需**第三方库**
 ```
 pip install -r requirements.txt
 ```
